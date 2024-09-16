@@ -1,5 +1,5 @@
 body {
-  font-family: "Arial", "Meiyo", sans-serif;
+  font-family: "Arial", "Meiryo", sans-serif;
 }
 
 
@@ -25,6 +25,6 @@ html {
   color: rgb(255, 192, 203);
 }
 
-#parents {
+#parents p {
   font-weight: bold;
 }
